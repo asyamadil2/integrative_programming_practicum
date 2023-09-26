@@ -92,17 +92,18 @@
    ![image](https://github.com/asyamadil2/integrative_programming_practicum/assets/107811435/874b09f2-7a21-4cc4-86e2-3344e95f28e3)
    ![image](https://github.com/asyamadil2/integrative_programming_practicum/assets/107811435/e2702f9b-7442-4b74-a663-bdeb172f9ee0)
 5. Lakukan perubahan pada fungsi getAllBooks
-
+   ![image](https://github.com/asyamadil2/integrative_programming_practicum/assets/107811435/a348e7a8-4ea1-40c7-bf91-4b00a5654ec1)
 6. Lakukan perubahan pada fungsi getOneBook
-
+   ![image](https://github.com/asyamadil2/integrative_programming_practicum/assets/107811435/109dc3e8-4370-48f9-8ecf-d263684d1bb3)
 7. Tampilkan semua buku dengan Postman
-
+   ![image](https://github.com/asyamadil2/integrative_programming_practicum/assets/107811435/83e5dd87-5ad7-4ad1-bf42-f1575e065dcf)
 8. Tampilkan buku Dilan 1990 dengan Postman
-
+   ![image](https://github.com/asyamadil2/integrative_programming_practicum/assets/107811435/fe8b98ae-79b8-4702-a943-3c0c4674b901)
 9. Lakukan perubahan pada fungsi updateBook
-
-10. Ubah judul buku Dilan 1991 menjadi “<NAMA PANGGILAN> 1991” dengan Postman
-
+   ![image](https://github.com/asyamadil2/integrative_programming_practicum/assets/107811435/e0373f39-60eb-4021-bc11-3ceb04b8bca6)
+10. Ubah judul buku Dilan 1990 menjadi “<NAMA PANGGILAN> 1991” dengan Postman
+    ![image](https://github.com/asyamadil2/integrative_programming_practicum/assets/107811435/5d992386-2ded-4989-88d6-39092db597cb)
 11. Lakukan perubahan pada fungsi deleteBook
-
+    ![image](https://github.com/asyamadil2/integrative_programming_practicum/assets/107811435/d01d71e9-6785-401a-83c6-d4ad0c957e9f)
 12. Hapus buku Dilan 1990 dengan Postman
+    ![image](https://github.com/asyamadil2/integrative_programming_practicum/assets/107811435/7dc8717e-850f-49f6-826a-00d0301a95a4)

@@ -1,4 +1,6 @@
-![image](https://github.com/asyamadil2/integrative_programming_practicum/assets/107811435/bf66cfe1-4188-446c-8851-e0052b063989)## Instalasi NodeJS
+![image](https://github.com/asyamadil2/integrative_programming_practicum/assets/107811435/bf66cfe1-4188-446c-8851-e0052b063989)
+
+## Instalasi NodeJS
 
 1. Buka halaman
    ![image](https://github.com/asyamadil2/integrative_programming_practicum/assets/107811435/5f394156-6943-4600-a9f9-2c5d2523763c)
